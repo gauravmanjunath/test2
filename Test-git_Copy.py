@@ -6,3 +6,5 @@ print('bye')
 print('hungry')
 
 print('Dev2')
+
+b=5
